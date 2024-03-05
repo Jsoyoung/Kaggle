@@ -7,4 +7,4 @@
 - 평가지표 : 정확도(accuracy score)
 - 제출 점수 : `0.90146(2038/3587)`
 - [제출 코드](./Multi-Class-Prediction-of-Obesity-Risk/Obesity_Risk.ipynb)
-- [ppt정리파일](./Multi-Class-Prediction-of-Obesity-Risk/Obesity_Risk.pdf)
+- [ppt 정리 파일](./Multi-Class-Prediction-of-Obesity-Risk/Obesity_Risk.pdf)
